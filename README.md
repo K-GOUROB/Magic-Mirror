@@ -1,1 +1,1 @@
-# Magic-Mirror
+# magic-mirror
